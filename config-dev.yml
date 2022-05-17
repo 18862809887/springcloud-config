@@ -14,4 +14,4 @@ eureka:
       defaultZone: http://eureka7001.com:7001/eureka, http://eureka7002.com:7002/eureka
     registry-fetch-interval-seconds: 30 #多久刷新本地的服务注册信息
 config:
-    name: "wq1222"
+    name: "wq122222"
